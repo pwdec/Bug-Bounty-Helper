@@ -11,5 +11,3 @@ python -m SimpleHTTPServer <PORT>
 
 That's it.
 
-
-Source:faisalahmed.me
